@@ -1,0 +1,15 @@
+Aceptadas:
+
+/**/
+/*abb*/
+/***ab*a/ab*a*/
+/*abb*//**//*ab*a/ab*a*/
+/*ab***a///ab*//*a////b*/
+
+Rechazadas:
+
+a/a*b*/
+a/*bbb*/
+/*bba*/*/
+/*bba*//*/**/
+/a*b*//*aaaa*//ab*/

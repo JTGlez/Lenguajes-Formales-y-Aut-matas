@@ -1,0 +1,9 @@
+No se utiliza la opción de Transducer debido a que al usar múltiples bloques el resultado no es el correcto.
+Por ello es que se muestran capturas del paso a paso para verificar que si se llega al resultado esperado
+(Este problema ya se lo había comentado previamente con una duda de la tarea 7).
+
+Así mismo, le recuerdo que solo se adjunta la captura de la máquina de Turing que es solución del problema, ya que
+me es imposible guardarla por el bug de JFlap. Se adjuntan los bloques de contrucción empleados para construir
+la máquina solución.
+
+Saludos. 
